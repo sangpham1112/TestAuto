@@ -19,6 +19,7 @@ namespace DemoAlertFrame.Test
 
         }
 
+        [TestCategory("smoketest")]
         [TestMethod]
         public void VerifyAlert()
         {
@@ -31,6 +32,7 @@ namespace DemoAlertFrame.Test
 
         }
 
+        [TestCategory("smiketest1")]
         [TestMethod]
         public void VerifyResultAlert()
         {

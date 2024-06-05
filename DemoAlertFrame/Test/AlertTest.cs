@@ -32,7 +32,7 @@ namespace DemoAlertFrame.Test
 
         }
 
-        [TestCategory("smiketest1")]
+        [TestCategory("smoketest1")]
         [TestMethod]
         public void VerifyResultAlert()
         {
